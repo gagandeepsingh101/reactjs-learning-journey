@@ -1,0 +1,11 @@
+#heading{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10%;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
