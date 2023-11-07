@@ -1,0 +1,29 @@
+{
+  "name": "talk-is-less-lets-show-code",
+  "version": "1.0.0",
+  "description": "In these we learn about how to build layout of app , passing data from child to parent and vice versa and many more concept like this.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagandeepsingh101/reactjs-learning-journey.git"
+  },
+  "author": "Gagandeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagandeepsingh101/reactjs-learning-journey/issues"
+  },
+  "homepage": "https://github.com/gagandeepsingh101/reactjs-learning-journey#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.2",
+    "process": "^0.11.10"
+  },
+  "main": "App.js"
+}
