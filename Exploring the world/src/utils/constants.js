@@ -1,0 +1,2 @@
+export const LOGO_URL="https://cdn4.iconfinder.com/data/icons/food-delivery-72/64/online-order-food-meal-delivery-cuisine-256.png"
+export const CDN_URL="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_400/";
