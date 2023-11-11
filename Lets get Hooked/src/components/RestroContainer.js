@@ -3,7 +3,6 @@ import RestroCard from "./RestroCard";
 
 const RestroContainer = (props) => {
 	const {resdata} = props;
-	console.log(resdata);
 	return (
 		<div className="restro-container">
 			{resdata.map((restrunaut) => (
